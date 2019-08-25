@@ -1,2 +1,2 @@
-# Custom Grids 
-## Here is a custom grid boilerplate.
+## Custom Grids 
+Here is a custom grid boilerplate.
