@@ -1,2 +1,2 @@
-# custom-grids-and-floats
-Custom grid and floats template for future projects
+# Custom Grids 
+## Here is a custom grid boilerplate.
